@@ -1,6 +1,6 @@
-### Hi there 👋
 
-## Hello there, I'm <em>Agustin Ghent<em>! 👋
+
+## Hey there, I'm <em>Agustin Ghent<em>! 👋
 ##### I'm a Engineering Sciences from Viña del Mar, Chile. Now working in Deeplearning aplications in trap camera images , also I'm about to start in a Master's Program in Data Science.
 
 ```js
