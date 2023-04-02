@@ -30,6 +30,8 @@ ongoing : "Summer Program, IMPA, Rio de Janeiro"
 ## Let's get serious
 
  you might be interested in looking at my [CV 📄](https://www.linkedin.com/in/agustinsso/overlay/1635511112475/single-media-viewer/?profileId=ACoAADEd7bwBUjnHWw-o6A7XyiGnDoPwLn8XdbE).
+   
+ also if you wanna see what I'm studying just check my [notes website ✏️](https://agustinesoto.github.io/my-classnotes/)
 
     
 
