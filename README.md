@@ -7,8 +7,8 @@
 const Agustin = {
 pronouns : "he" | "him",
 code: [Python, R, C, Javascript],
-tools: [Jupyter, VSCode, LaTex, SQL, GIT, Docker],
-learning_rn: [Wolfram Mathematica, Deeplearning Aplications],
+tools: [Jupyter, LaTex, SQL, GIT, Docker],
+learning_rn: [Pytorch, Deeplearning Aplications, CNN, RNN],
 ongoing : "Summer Program, IMPA, Rio de Janeiro"
 }
 ```
