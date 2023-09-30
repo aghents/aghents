@@ -1,15 +1,13 @@
 
 
-## Hey there, I'm <em>Agustin Ghent<em>! 👋
+## Hey there, I'm <em>Agustin<em>! 👋
 ##### I'm a Engineering Sciences student from Viña del Mar, Chile. Now working in Deeplearning aplications in trap camera images , also I'm about to start in a Master's Program in Data Science.
 
 ```js
 const Agustin = {
-pronouns : "he" | "him",
 code: [Python, R, C, Javascript],
 tools: [Jupyter, LaTex, SQL, GIT, Docker, tensorflow],
-learning_rn: [Pytorch, Deeplearning Aplications,
-ongoing : "Summer Program, IMPA, Rio de Janeiro"
+learning_rn: [Pytorch, Deeplearning Aplications,"
 }
 ```
 
