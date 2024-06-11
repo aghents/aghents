@@ -1,11 +1,11 @@
 
 
 ## Hey there, I'm <em>Agustin<em>! 👋
-##### Imma MSc Data Science student from Viña del Mar, Chile. Now working in my Master's thesis about bias detection in spanish language.
+##### I'm a MSc Data Science student from Viña del Mar, Chile. Now working in my Master's thesis about bias detection in spanish language.
 
 ```js
 const Agustin = {
-code: [Python, R, C, Javascript],
+code: [Python, R, C],
 tools: [Jupyter, LaTex, SQL, GIT, Docker, tensorflow],
 learning_rn: [Pytorch, Deeplearning Aplications,"
 }
