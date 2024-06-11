@@ -1,7 +1,7 @@
 
 
 ## Hey there, I'm <em>Agustin<em>! 👋
-##### I'm a Engineering Sciences student from Viña del Mar, Chile. Now working in Deeplearning aplications in trap camera images , also I'm about to start in a Master's Program in Data Science.
+##### Imma MSc Data Science student from Viña del Mar, Chile. Now working in my Master's thesis about bias detection in spanish language.
 
 ```js
 const Agustin = {
@@ -14,14 +14,13 @@ learning_rn: [Pytorch, Deeplearning Aplications,"
 
 
 ## About myself 
-
-- 🔭 I’m currently working on some top secret projects (deep learning) 🕵️
-- 🌱 I’m currently learning Machine learning, Deep learning and some advance Math
-- 👯 I’m currently looking to collaborate on Machine learning projects
+ 
+- 🌱 I’m currently learning NLP aplications
+- 👯 I’m currently looking to collaborate on Machine learning projects.
 - 📫 How to reach me: agusoto@alumnos.uai.cl | agusoto[at]alumnos[dot]uai[dot]com
 - ⚡ Fun facts:
-    * I'm very proficient in Spanish (I'm chilean, <em>buena culiao!<em>), and speak proper English, some Portuguese and a little bit of German.
-    * On my free time I enjoy playing beach tennis and hitting the gym 💪🏼
+    * I'm very proficient in Spanish (I'm chilean, <em>buena culiao!<em>), speak proper English and some Portuguese.
+    * On my free time I enjoy training crossfit and playing the guitar.
     * I've never broken a bone.
 
 
