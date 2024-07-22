@@ -7,7 +7,7 @@
 const Agustin = {
 code: [Python, R, C, Javascript],
 tools: [React, Vue.js, Django, Flask, Jupyter, LaTex, SQL, GIT, Docker, tensorflow],
-learning_rn: [Pytorch, Deeplearning Aplications, Langchain"
+learning_rn: [Pytorch, Deeplearning Aplications, Langchain, CI-CD tools]
 }
 ```
 
