@@ -17,7 +17,7 @@ learning_rn: [Pytorch, Deeplearning Aplications, Langchain, CI-CD tools]
  
 - 🌱 I’m currently learning NLP aplications
 - 👯 I’m currently looking to collaborate on Machine learning projects.
-- 📫 How to reach me: agusoto@alumnos.uai.cl | agusoto[at]alumnos[dot]uai[dot]com
+- 📫 How to reach me: agustinghent@gmail.com | agustinghent[at]gmail[dot]com
 - ⚡ Fun facts:
     * I'm very proficient in Spanish (I'm chilean, <em>buena culiao!<em>), speak proper English and some Portuguese.
     * On my free time I enjoy training crossfit and playing the guitar.
