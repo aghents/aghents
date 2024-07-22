@@ -5,9 +5,9 @@
 
 ```js
 const Agustin = {
-code: [Python, R, C],
-tools: [Jupyter, LaTex, SQL, GIT, Docker, tensorflow],
-learning_rn: [Pytorch, Deeplearning Aplications,"
+code: [Python, R, C, Javascript],
+tools: [React, Vue.js, Django, Flask, Jupyter, LaTex, SQL, GIT, Docker, tensorflow],
+learning_rn: [Pytorch, Deeplearning Aplications, Langchain"
 }
 ```
 
