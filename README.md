@@ -1,7 +1,7 @@
 
 
 ## Hey there, I'm <em>Agustin<em>! 👋
-##### I'm a MSc Data Science student from Valparaiso, Chile. Now working in my Master's thesis about bias detection in spanish language.
+##### I'm an Engineering student from Valparaiso, Chile. I am excited about starting my Master's degree in Data Science.
 
 ```js
 const Agustin = {
