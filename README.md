@@ -1,7 +1,7 @@
 
 
 ## Hey there, I'm <em>Agustin<em>! 👋
-##### I'm an Engineering student from Valparaiso, Chile. I am excited about starting my Master's degree in Data Science.
+##### I'm an engineering student from Valparaíso, Chile, with a passion for Data Science, and I’m excited to begin my Master's degree in this field.
 
 ```js
 const Agustin = {
