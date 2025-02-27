@@ -3,10 +3,8 @@
 ## Hey there, Agus here
 ##### I'm a Masters student with a passion of research and working with machine learning models.
 ```js
-const Agustin = {
-code: [Python, R, C, Javascript, C++],
-tools: [React, Vue.js, Django, Flask, Jupyter, LaTex, SQL, GIT, Docker, tensorflow],
-learning_rn: [Pytorch, Deeplearning Aplications, Langchain, CI-CD tools]
+const agus = {
+code: [Python, R, Javascript, C]
 }
 ```
 
