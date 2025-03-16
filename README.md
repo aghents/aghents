@@ -2,11 +2,28 @@
 
 ## Hey there, Agus here
 ##### I'm a Masters student with a passion of research and working with machine learning models.
-```js
-const agus = {
-code: [Python, R, Javascript, C]
+```c
+#include <stdio.h>
+
+typedef struct {
+    const char *currently_learning[3];
+    const char *next_step;
+} Agus;
+
+int main() {
+    Agus agus = {
+        .currently_learning = {"Pytorch", "Jax", "Deep Learning"},
+        .next_step = "PhD"
+    };
+
+    printf("Next step: %s\n", agus.next_step);
+    return 0;
 }
+
 ```
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aghents&layout=compact&hide=html,css,javascript,jupyter%20notebook,php)]()
+
 
 ## About myself 
  
