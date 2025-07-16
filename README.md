@@ -12,8 +12,8 @@ typedef struct {
 
 int main() {
     Agus agus = {
-        .currently_learning = {"Pytorch", "Jax", "Deep Learning"},
-        .next_step = "PhD"
+        .currently_learning = {"Pytorch", "Deep Learning"},
+        .next_step = "???"
     };
 
     printf("Next step: %s\n", agus.next_step);
@@ -27,7 +27,7 @@ int main() {
 
 ## About myself 
  
-- 🌱 I’m currently doing an Internship at National Center of Artificial Intelligence (CENIA)
+- 🌱 I’m currently working as a Research Engineer at National Center of Artificial Intelligence (CENIA)
 - 📫 How to reach me: agustinghent@gmail.com | agustinghent[at]gmail[dot]com
 - ⚡ Fun facts:
     * I'm very proficient in Spanish (I'm chilean, <em>buena culiao!<em>), speak proper English and some Portuguese.
