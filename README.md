@@ -22,8 +22,6 @@ int main() {
 
 ```
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aghents&layout=compact&hide=html,css,javascript,jupyter%20notebook,php)]()
-
 
 ## About myself 
  
