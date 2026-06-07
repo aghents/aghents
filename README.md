@@ -1,7 +1,7 @@
 
 
 ## Hey there, Agus here
-##### I'm an IT Engineer passionate about language technologies.
+##### I'm just an IT Engineer passionate about language technologies.
 ```c
 #include <stdio.h>
 
