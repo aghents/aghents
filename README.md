@@ -25,7 +25,7 @@ int main() {
 ## About Me
 
 * 🤖 Currently working as a **Data Scientist at Grupo Falabella**, where I develop NLP models for retail industry.
-* Previously worked as an **AI Research Engineer** with the at <a href="https://tecnologiavoces.com">VOCES team</a>, part of CENIA.
+* Previously worked as an **AI Research Engineer** with the <a href="https://tecnologiavoces.com">VOCES team</a>, part of CENIA.
 * 📫 Reach me at: **[agustinghent@gmail.com](mailto:agustinghent@gmail.com)** | **agustinghent[at]gmail[dot]com**
 * ⚡ Fun facts:
 
