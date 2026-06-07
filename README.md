@@ -1,7 +1,7 @@
 
 
 ## Hey there, Agus here
-##### I'm a Masters student with a passion of research and working with machine learning models.
+##### I'm an IT Engineer passionate about language technologies, especially interested in language models.
 ```c
 #include <stdio.h>
 
@@ -22,15 +22,17 @@ int main() {
 
 ```
 
+## About Me
 
-## About myself 
- 
-- 🌱 I’m currently working as a Research Engineer at National Center of Artificial Intelligence (CENIA)
-- 📫 How to reach me: agustinghent@gmail.com | agustinghent[at]gmail[dot]com
-- ⚡ Fun facts:
-    * I'm very proficient in Spanish (I'm chilean, <em>buena culiao!<em>), speak proper English and some Portuguese.
-    * On my free time I enjoy training crossfit and playing the guitar.
-    * I've never broken a bone.
+* 🤖 Currently working as a **Data Scientist at Grupo Falabella**, where I develop NLP models for retail industry.
+* Previously worked as an **AI Research Engineer** with the at <a href="https://tecnologiavoces.com">VOCES team</a>, part of CENIA.
+* 📫 Reach me at: **[agustinghent@gmail.com](mailto:agustinghent@gmail.com)** | **agustinghent[at]gmail[dot]com**
+* ⚡ Fun facts:
+
+  * Native Spanish speaker 🇨🇱 (*buena culiao!*), fluent in English, and conversational in Portuguese.
+  * In my free time, I enjoy CrossFit and beach tennis.
+  * I've never broken a bone.
+
 
 
 
